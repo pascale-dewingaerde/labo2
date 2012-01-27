@@ -1,2 +1,7 @@
 phrase de texte
 une nouvelle phrase
+une nouvelle phrase
+attention2 >> file.txt
+cat file.txt
+cat file.txt
+git push http://github.com/pascale-dewingaerde/labo2.git master
